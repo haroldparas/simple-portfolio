@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-  color: rgb(128, 128, 128);
+  color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
