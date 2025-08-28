@@ -8,7 +8,7 @@ This is my **first functional portfolio website** built using only **HTML, CSS, 
 - 🎨 **Clean & Minimal Layout** – focused on readability and presentation  
 - 🖼️ **Projects Showcase** – highlights my completed works and experiences  
 - 👨‍💻 **About Me Section** – introduces myself and my career goals
-- 
+
 ### 🛠️ Tech Stack  
 - **HTML5** – structure  
 - **CSS3** – styling and responsiveness (Flexbox/Grid)  
